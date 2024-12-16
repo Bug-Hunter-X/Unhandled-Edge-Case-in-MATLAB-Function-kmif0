@@ -1,0 +1,1 @@
+This repository contains a MATLAB function with a subtle bug and its solution. The bug involves an unhandled edge case where the input value is exactly 10. The solution demonstrates how to address this edge case by explicitly handling it in the conditional statement.
